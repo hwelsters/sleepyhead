@@ -1,0 +1,841 @@
+[
+  {
+    "iIndex": 1075,
+    "sQuestion": "Bob invested 6100 dollars in 2 funds , which pay 7 % and 6 % simple interest respectively. The combined interest he earned for both funds was 405 dollars for one year. How many dollars was invested at 7 %? How much was invested at 6 %? ",
+    "lEquations": ["(7*0.01*fundone)+(6*0.01*fundtwo)=405.0", "fundone+fundtwo=6100.0"],
+    "lSolutions": [3900.0, 2200.0]
+  },
+  {
+    "iIndex": 5131,
+    "sQuestion": "You are traveling to your mothers house that is 234 miles away. If you are currently twice as far from your house as you are from your mothers house how far have you traveled? Round to the nearest tenth mile.",
+    "lEquations": ["distance_traveled+distance_mothers=234.0", "distance_traveled=2.0*distance_mothers"],
+    "lSolutions": [156.0]
+  },
+  {
+    "iIndex": 6370,
+    "sQuestion": "A total of 10,000 dollars is invested in 2 funds paying 5 % and 7 % annual interest. The combined annual interest is 630 dollars. How much of the 10,000 dollars is invested at 5 %? How much at 7 %? ",
+    "lEquations": ["(5*0.01*five_percent_fund)+(7*0.01*seven_percent_fund)=630.0", "five_percent_fund+seven_percent_fund=10000.0"],
+    "lSolutions": [3500.0, 6500.0]
+  },
+  {
+    "iIndex": 158,
+    "sQuestion": "The Kings won two less than three times as many games as they lost. They played 82 games. How many wins and losses did the team have? ",
+    "lEquations": ["won+lost=82.0", "won=(3.0*lost)-2.0"],
+    "lSolutions": [61.0, 21.0]
+  },
+  {
+    "iIndex": 5955,
+    "sQuestion": "A 68-foot pipe is cut into 2 pieces , one of which is 12 feet less than the other. What is the length of the shorter piece in feet? ",
+    "lEquations": ["shorter+longer=68.0", "longer-12.0=shorter"],
+    "lSolutions": [28.0]
+  },
+  {
+    "iIndex": 7364,
+    "sQuestion": "Nine books are to be bought by a student. Some cost 6 dollars each and the remainder cost 6.50 dollars each. The total amount spent was 56 dollars. How many 6-dollar books were sold? How many 6.50-dollar books were sold? ",
+    "lEquations": ["(6.0*some)+(6.5*remainder)=56.0", "some+remainder=9.0"],
+    "lSolutions": [5.0, 4.0]
+  },
+  {
+    "iIndex": 2371,
+    "sQuestion": "Find 2 numbers whose sum is 64 and whose difference is 4. What is the smaller number? What is the larger number?",
+    "lEquations": ["large+small=64.0", "large-small=4.0"],
+    "lSolutions": [30.0, 34.0]
+  },
+  {
+    "iIndex": 116,
+    "sQuestion": "On Monday , Harold picked up three doughnuts and four large coffees for the office staff. He paid 4.91 dollars. On Tuesday Melinda picked up five doughnuts and six large coffees for the office staff. She paid 7.59 dollars. What is the cost of one doughnut? What is the cost of one large coffee? ",
+    "lEquations": ["(3.0*donuts)+(4.0*coffees)=4.91", "(5.0*donuts)+(6.0*coffees)=7.59"],
+    "lSolutions": [0.45, 0.89]
+  },
+  {
+    "iIndex": 3560,
+    "sQuestion": "The sum of 2 numbers is 84. One number is 3 times the other. Find the smaller number. Find the larger number.",
+    "lEquations": ["larger+smaller=84.0", "larger=3.0*smaller"],
+    "lSolutions": [21.0, 63.0]
+  },
+  {
+    "iIndex": 2866,
+    "sQuestion": "A student is pricing 2 different picture packages. John 's Photo World charges 2.75 dollars per sheet and a one time sitting fee of 125 dollars. Sam 's Picture Emporium charges 1.50 dollars per sheet and a one time sitting fee of 140 dollars. For how many sheets of pictures do the 2 companies charge the same amount?",
+    "lEquations": ["(2.75*sheets)+125.0=(1.5*sheets)+140.0"],
+    "lSolutions": [12.0]
+  },
+  {
+    "iIndex": 7086,
+    "sQuestion": "Norman and Suzanne Scarpulla own 35 shares of Mcdonald 's stocks and 69 shares of the Ohio Art Company stock. On a particular day in 2011 , their stock portfolio consisting of these two stocks was worth 2,814 dollars. The Mcdonalds stock was 70 dollars more per share than the Ohio Art Company stock. What was the price of McDonalds stock on that day? What was the cost of the Ohio Art Company stock on that day? ",
+    "lEquations": ["(35.0*mcdonalds_stock)+(69.0*ohio_art_stock)=2814.0", "mcdonalds_stock=70.0+ohio_art_stock"],
+    "lSolutions": [73.5, 3.5]
+  },
+  {
+    "iIndex": 5133,
+    "sQuestion": "The difference between two numbers is 6. If you double both numbers , the sum is 36. Find the two numbers. ",
+    "lEquations": ["(2.0*number_one)+(2.0*number_two)=36.0", "number_one-number_two=6.0"],
+    "lSolutions": [12.0, 6.0]
+  },
+  {
+    "iIndex": 2561,
+    "sQuestion": "A car rented for 29 dollars per day plus 0.08 dollars per mile. Julia paid 46.12 dollars for a 1-day rental. How far did she drive , in miles? ",
+    "lEquations": ["29.0+(0.08*miles_driven)=46.12"],
+    "lSolutions": [214.0]
+  },
+  {
+    "iIndex": 3542,
+    "sQuestion": "A student works 2 part-time jobs. He earns 8.00 dollars an hour working at the college library and 15.00 dollars and hour for construction work. To save time for study , be limits his work to 25 hours a week. If he enjoys the work at the library more , how many hours can he work at the library and still earn at 300 dollars a week? ",
+    "lEquations": ["(8.0*library)+(15.0*construction)=300.0", "library+construction=25.0"],
+    "lSolutions": [10.0]
+  },
+  {
+    "iIndex": 5765,
+    "sQuestion": "One gallon container is full of a 75 % alcohol solution. How much must be drained off and replaced by a 50 % alcohol solution to produce one gallon of 65 % alcohol solution?",
+    "lEquations": ["75.0*0.01*left+50.0*0.01*drained=65*0.01*1.0", "left+drained=1.0"],
+    "lSolutions": [0.4]
+  },
+  {
+    "iIndex": 2199,
+    "sQuestion": "An investor will invest a total of 15000 dollars in 2 accounts , one paying 4 % annual simple interest and the other 3 %. If he wants to earn 550 dollars annual interest , how much should he invest at 4 %? How much at 3 %? ",
+    "lEquations": ["((3.0*0.01)*low_interest)+((4.0*0.01)*high_interest)=550.0", "low_interest+high_interest=15000.0"],
+    "lSolutions": [10000.0, 5000.0]
+  },
+  {
+    "iIndex": 6759,
+    "sQuestion": "An ice skating rink charges 5 dollars for admission and 2.50 dollars to rent skates. Jill can purchase a new pair of skates for 65 dollars. How many times would she need to go the rink to justify buying the skates rather than renting a pair?",
+    "lEquations": ["65.0/2.5=times_at_rink"],
+    "lSolutions": [26.0]
+  },
+  {
+    "iIndex": 7126,
+    "sQuestion": "The sum of two numbers is 85. The difference of twice of one of them and the other one is 5. Find both numbers.",
+    "lEquations": ["(2.0*number)-other_number=5.0", "number+other_number=85.0"],
+    "lSolutions": [30.0, 55.0]
+  },
+  {
+    "iIndex": 2517,
+    "sQuestion": "Colored copies cost 10 cents per copy and white copies cost 5 cents per copy. Sandy made 400 copies , some of which were colored and the rest white. Her total bill was 22.50 dollars. How many colored copies and white copies did she make? ",
+    "lEquations": ["(10*.01*colored_copy)+(5*.01*white_copy)=22.5", "colored_copy+white_copy=400.0"],
+    "lSolutions": [50.0, 350.0]
+  },
+  {
+    "iIndex": 2010,
+    "sQuestion": "At its Grand Opening , the Guthrie Market distributed two different types of souvenirs. One type cost 20 cents each , and the other type cost 25 cents each. One thousand souvenirs were distributed in all. If the cost of these souvenirs was 220 dollars. How many of 20 cents and 25 cents souveniers were distributed? ",
+    "lEquations": ["(20*.01*souvenir_one)+(25*.01*souvenir_two)=220.0", "souvenir_one+souvenir_two=1000.0"],
+    "lSolutions": [600.0, 400.0]
+  },
+  {
+    "iIndex": 3354,
+    "sQuestion": "193 tickets were sold for the Class of 2003 ice cream picnic. Each student ticket costs 0.50 dollars each , and each non-student ticket costs 1.50 dollars each. A total of 206.50 dollars was collected. How many student tickets were sold? ",
+    "lEquations": ["(0.5*student_tickets)+(1.5*nonstudent_tickets)=206.5", "student_tickets+nonstudent_tickets=193.0"],
+    "lSolutions": [83.0]
+  },
+  {
+    "iIndex": 3543,
+    "sQuestion": "Three times a number is the same as the difference of twice the number and seven. Find the number.",
+    "lEquations": ["3.0*number=(2.0*number)-7.0"],
+    "lSolutions": [-7.0]
+  },
+  { "iIndex": 6027, "sQuestion": ".833 of a number is -60. What is the number?", "lEquations": ["0.833*number=(-60.0)"], "lSolutions": [-72.0] },
+  {
+    "iIndex": 3289,
+    "sQuestion": "The sum of two numbers is 104. The larger number is 1 less than twice the smaller number. Find the numbers.",
+    "lEquations": ["smaller+larger=104.0", "larger=(2.0*smaller)-1.0"],
+    "lSolutions": [35.0, 69.0]
+  },
+  {
+    "iIndex": 2113,
+    "sQuestion": "How many liters of a 60 % acid solution must be mixed with a 75 % acid solution to get 20 liters of a 72 % solution?",
+    "lEquations": ["(60*.01*sixty_liters)+75*0.01*seventy_five_liters=72*0.01*20.0", "sixty_liters + seventy_five_liters = 20"],
+    "lSolutions": [4.0]
+  },
+  {
+    "iIndex": 823,
+    "sQuestion": "An amusement park sells 2 kinds of tickets.  Tickets for children cost 1.50 dollars.  Adult tickets cost 4 dollars.  On a certain day , 278 people entered the park.  On that same day the admission fees collected totaled 792 dollars. How many children were admitted on that day? How many adults were admitted? ",
+    "lEquations": ["(1.5*children)+(4.0*adults)=792.0", "children+adults=278.0"],
+    "lSolutions": [128.0, 150.0]
+  },
+  {
+    "iIndex": 6212,
+    "sQuestion": "In 1 week , a music store sold 7 violins for a total of 1600 dollars. 2 different types were sold. One cost 200 dollars and the other cost 300 dollars. How many 200-dollar violins were sold? How many 300-dollar violins were sold? ",
+    "lEquations": ["(200.0*two_hundred)+(300.0*three_hundred)=1600.0", "two_hundred+three_hundred=7.0"],
+    "lSolutions": [5.0, 2.0]
+  },
+  { "iIndex": 3168, "sQuestion": "The sum of 38 and twice a number is 124. Find the number.", "lEquations": ["38.0+(2.0*number)=124.0"], "lSolutions": [43.0] },
+  { "iIndex": 5595, "sQuestion": "Find the number whose double is 45 greater than its half?", "lEquations": ["2.0*number=45.0+0.5*number"], "lSolutions": [30.0] },
+  {
+    "iIndex": 5981,
+    "sQuestion": "1 blend of coffee sells for 9.00 dollars per pound and another blend sells for 8.00 dollars per pound. You want to make a 20 pound blend that sells for 8.40 dollars per pound. How many pounds of the 8 dollars per pound coffee do you need? How many pounds of the 9 dollars per pound coffee do you need?",
+    "lEquations": ["(8.0*eight_coffee)+(9.0*nine_coffee)=20.0*8.4", "eight_coffee+nine_coffee=20.0"],
+    "lSolutions": [12.0, 8.0]
+  },
+  {
+    "iIndex": 5669,
+    "sQuestion": "The sum of the numbers of boys and girls in a class is 36. If twice the number of girls exceeds the number of boys by 12 , find the number of girls in the class. Find the number of boys. ",
+    "lEquations": ["2.0*girls=12.0+boys", "boys+girls=36.0"],
+    "lSolutions": [16.0, 20.0]
+  },
+  {
+    "iIndex": 1341,
+    "sQuestion": "The probability that San Francisco plays in the next super bowl is nine times the probability that they do not play in the next super bowl. The probability that San Francisco plays in the next super bowl plus the probability that they do not play is 1. What is the probability that San Francisco plays in the next super bowl?",
+    "lEquations": ["play_probability+not_play_probability=1.0", "play_probability=9.0*not_play_probability"],
+    "lSolutions": [0.9]
+  },
+  {
+    "iIndex": 5281,
+    "sQuestion": "There are 11 animals in a barnyard. Some are chickens and some are cows. There are 38 legs in all. How many chickens and cows are in the barnyard?",
+    "lEquations": ["(2.0*chickens)+(4.0*cows)=38.0", "chickens+cows=11.0"],
+    "lSolutions": [3.0, 8.0]
+  },
+  {
+    "iIndex": 1702,
+    "sQuestion": "Freeport McMoran projects that in 2010 the world grain supply will be 1800000 metric tons and the supply will be only 0.75 of the world grain demand. What will the world grain demand be in 2010?",
+    "lEquations": ["1800000.0=0.75*demand"],
+    "lSolutions": [2400000.0]
+  },
+  {
+    "iIndex": 5020,
+    "sQuestion": "Juliet has a choice between receiving an 1800 dollars monthly salary from Furniture by Design or a base salary of 1600 dollars and a 4 % commission on the amount of furniture she sells during the month. For what amount of sales will the 2 choices be equal?",
+    "lEquations": ["1600.0+(4*0.01*sales)=1800.0"],
+    "lSolutions": [5000.0]
+  },
+  {
+    "iIndex": 760,
+    "sQuestion": "Pencils cost 25 cents a piece. Pens cost 80 cents a piece. Susan spent 20 dollars for a total of 36 pens and pencils. How many pencils did she buy?",
+    "lEquations": ["(25.0*.01*pencils)+(80.0*0.01*pens)=20.0", "pencils+pens=36.0"],
+    "lSolutions": [16.0]
+  },
+  {
+    "iIndex": 3009,
+    "sQuestion": "One number is 3 more than twice a second number. Their sum is 27. Find the smaller number. Find the larger number.",
+    "lEquations": ["larger_number+smaller_number=27.0", "larger_number=(2.0*smaller_number)+3.0"],
+    "lSolutions": [8.0, 19.0]
+  },
+  {
+    "iIndex": 107,
+    "sQuestion": "Two investments earn an annual income of 575 dollars. One investment earns an annual simple interest rate of 8.5 % , and the other investment earns an annual simple interest rate of 6.4 %. The amount invested is 8000 dollars. How much money is invested in the first investment and second investment respectively? ",
+    "lEquations": ["(8.5*.01*first)+(6.4*.01*second)=575.0", "first+second=8000.0"],
+    "lSolutions": [3000.0, 5000.0]
+  },
+  {
+    "iIndex": 6208,
+    "sQuestion": "The carpenter saws a board that is 22 feet long into two pieces. One piece is to be 1 foot longer than twice the length of the shorter piece. Find the Length of each piece.",
+    "lEquations": ["piece_1+piece_2=22.0", "piece_1=(2.0*piece_2)+1.0"],
+    "lSolutions": [7.0, 15.0]
+  },
+  {
+    "iIndex": 5580,
+    "sQuestion": "Mary can purchase roses and daisies from a flower shop. She can buy four roses and five daisies for 7.90 dollars or two roses and six daisies for 5.70 dollars. What is the individual cost for each rose and daisy?",
+    "lEquations": ["(4.0*rose_cost)+(5.0*daisy_cost)=7.9", "(2.0*rose_cost)+(6.0*daisy_cost)=5.7"],
+    "lSolutions": [1.35, 0.5]
+  },
+  {
+    "iIndex": 667,
+    "sQuestion": "On a college entrance exam , each correct answer adds 1 point to your raw score , each unanswered question adds nothing and each incorrect answer subtracts 0.25 point. You answer 82 out of 85 questions for a raw score of 67. How many questions did you answer correctly? ",
+    "lEquations": ["(1.0*correct)-(0.25*incorrect)=67.0", "correct+incorrect=82.0"],
+    "lSolutions": [70.0]
+  },
+  {
+    "iIndex": 6351,
+    "sQuestion": "Your science test is worth 100 points and contains 38 questions. There are two-point and five-point questions on the test. How many two-point questions and five-point questions are on the test?",
+    "lEquations": ["(2.0*two_point_questions)+(5.0*five_point_questions)=100.0", "two_point_questions+five_point_questions=38.0"],
+    "lSolutions": [30.0, 8.0]
+  },
+  {
+    "iIndex": 1890,
+    "sQuestion": "The 6th graders from an elementary school are going to celebrate the end of the year by going to the local pizza parlor. There are 120 in the whole group and there are twice as many children as adults in the group. How many children are there?",
+    "lEquations": ["number_children+number_adults=120.0", "number_children=2.0*number_adults"],
+    "lSolutions": [80.0]
+  },
+  {
+    "iIndex": 7037,
+    "sQuestion": "One thousand quarts of milk testing 4 % butterfat are to be reduced to 3 %. How many quarts of cream testing 23 % butterfat must be separated from the milk to produce the required result?",
+    "lEquations": ["((3.0*reduced_milk)*0.01)+((23.0*cream)*0.01)=(1000.0*4.0)*0.01", "reduced_milk+cream=1000.0"],
+    "lSolutions": [50.0]
+  },
+  {
+    "iIndex": 2982,
+    "sQuestion": "There are 7066 known nesting pairs of bald eagles in the lower 48 states today. This is 6649 more pairs than in 1963. How many nesting pairs of bald eagles were there in the lower 48 states in 1963?",
+    "lEquations": ["6649.0+past_pairs=7066.0"],
+    "lSolutions": [417.0]
+  },
+  {
+    "iIndex": 6376,
+    "sQuestion": "The larger of two numbers is 23 less than twice the smaller. The sum of the two numbers is 70. Find the two numbers.",
+    "lEquations": ["(2.0*smaller)-23.0=larger", "smaller+larger=70.0"],
+    "lSolutions": [31.0, 39.0]
+  },
+  {
+    "iIndex": 2423,
+    "sQuestion": "A garden table and a bench cost 750 combined. The price of the garden table is two times the price of the bench. What is the cost of the bench?",
+    "lEquations": ["garden_table+bench=750.0", "garden_table=2.0*bench"],
+    "lSolutions": [250.0]
+  },
+  {
+    "iIndex": 5806,
+    "sQuestion": "Goran will rent a car for the weekend. He can choose 1 of 2 plans. The first plan has an initial fee of 65 dollars and costs an additional 0.40 dollars per mile driven. The second plan has no initial fee but costs 0.60 dollars per mile driven. How many miles would Goran need to drive for the 2 plans to cost the same?",
+    "lEquations": ["65.0+(0.4*miles)=0.6*miles"],
+    "lSolutions": [325.0]
+  },
+  {
+    "iIndex": 5094,
+    "sQuestion": "There are 27 students in an Algebra 1 class. There are 5 fewer girls than boys. How many girls are in the class?",
+    "lEquations": ["boys+girls=27.0", "boys=5.0+girls"],
+    "lSolutions": [11.0]
+  },
+  {
+    "iIndex": 6920,
+    "sQuestion": "During the 1998-1999 Little League season , the Tigers played 57 games. They lost 21 more games than they won. They did n't tie any. How many games did they win that season? ",
+    "lEquations": ["lost+won=57.0", "lost=21.0+won"],
+    "lSolutions": [18.0]
+  },
+  {
+    "iIndex": 2737,
+    "sQuestion": "A farmhouse has 15 animals. Some are goats and some are ducks. Altogether there are 48 legs. How many of each animal are there?",
+    "lEquations": ["(4.0*goats)+(2.0*ducks)=48.0", "goats+ducks=15.0"],
+    "lSolutions": [9.0, 6.0]
+  },
+  {
+    "iIndex": 443,
+    "sQuestion": "A grocer bought 12 bushels of Baldwin and McInotosh apples. Baldwins costs 95 cents a bushel , but McIntosh cost only 90 cents a bushel. If he paid 11.00 dollars for the lot , how many bushels of Baldwins did he get? How many bushels of McIntosh? ",
+    "lEquations": ["(95*.01*baldwin)+(90*.01*mcinotosh)=11.0", "baldwin+mcinotosh=12.0"],
+    "lSolutions": [4.0, 8.0]
+  },
+  {
+    "iIndex": 6355,
+    "sQuestion": "The difference between two numbers is 9. Find the numbers , if their sum is 46. ",
+    "lEquations": ["number_1+number_2=46.0", "number_1-number_2=9.0"],
+    "lSolutions": [27.5, 18.5]
+  },
+  {
+    "iIndex": 5425,
+    "sQuestion": "Matthew has two different stocks. One of the stocks is worth twice as much per share as the other. He has 14 shares of the more valuable stock and 26 shares of the other stock. His total assets in stocks is 2106 dollars. How much is the more expensive stock per share?",
+    "lEquations": ["(14.0*expensive_stock)+(26.0*cheap_stock)=2106.0", "expensive_stock=2.0*cheap_stock"],
+    "lSolutions": [78.0]
+  },
+  {
+    "iIndex": 817,
+    "sQuestion": "Jill has 3.50 dollars in nickels and dimes. If she has 50 coins , how many nickels does she have? How many dimes? ",
+    "lEquations": ["(0.05*nickels)+(0.1*dimes)=3.5", "nickels+dimes=50.0"],
+    "lSolutions": [30.0, 20.0]
+  },
+  {
+    "iIndex": 6168,
+    "sQuestion": "2 automobiles start out from two points 600 kilometers apart and travel toward each other.The automobile from the east travels at 10 kilometers faster than the automobile from the west. If they meet after 5 hours , what is the average speed of each automobile? ",
+    "lEquations": ["(5.0*east_automobile)+(5.0*west_automobile)=600.0", "east_automobile=10.0+west_automobile"],
+    "lSolutions": [55.0, 65.0]
+  },
+  {
+    "iIndex": 5767,
+    "sQuestion": "A farmer has cows and chickens. He only sees 50 legs and 18 heads. How many are cows and how many are chickens?",
+    "lEquations": ["(4.0*cows)+(2.0*chickens)=50.0", "cows+chickens=18.0"],
+    "lSolutions": [7.0, 11.0]
+  },
+  {
+    "iIndex": 3772,
+    "sQuestion": "There are 24 kids in Mrs Jones ' class. There are twice as many girls as boys. How many boys and girls are there?",
+    "lEquations": ["boys+girls=24.0", "girls=2.0*boys"],
+    "lSolutions": [8.0, 16.0]
+  },
+  {
+    "iIndex": 3029,
+    "sQuestion": "The second number is 3 less than twice the first number. Their sum is 57. Find the second number.",
+    "lEquations": ["second_number=(2.0*first_number)-3.0", "first_number+second_number=57.0"],
+    "lSolutions": [37.0]
+  },
+  {
+    "iIndex": 5769,
+    "sQuestion": "There are 13 animals in a barn. Some are chickens and some are pigs. There are 40 legs in the barn. How many are pigs are there and how many chicken are there?",
+    "lEquations": ["(2.0*chickens)+(4.0*pigs)=40.0", "chickens+pigs=13.0"],
+    "lSolutions": [7.0, 6.0]
+  },
+  {
+    "iIndex": 5110,
+    "sQuestion": "A building with 12 units consists of 1 bedrooms costing 360 dollars and 2 bedrooms costing 450 dollars respectively. When all units are full the total is 4950 dollars. How many 2 bedroom units are there?",
+    "lEquations": ["(360.0*one_bedroom)+(450.0*two_bedroom)=4950.0", "one_bedroom+two_bedroom=12.0"],
+    "lSolutions": [7.0]
+  },
+  { "iIndex": 3055, "sQuestion": "Twice a number equals 25 less than triple the same number. What is the number?", "lEquations": ["2.0*number=(3.0*number)-25.0"], "lSolutions": [25.0] },
+  {
+    "iIndex": 6290,
+    "sQuestion": "1 number is 9 less than twice another , and their sum is 42. Find the two numbers. ",
+    "lEquations": ["first_number+second_number=42.0", "first_number=(2.0*second_number)-9.0"],
+    "lSolutions": [17.0, 25.0]
+  },
+  { "iIndex": 3591, "sQuestion": "Think of a number , half it and the result is 9. Find the number. ", "lEquations": ["0.5*number=9.0"], "lSolutions": [18.0] },
+  {
+    "iIndex": 3125,
+    "sQuestion": "The sum of 2 numbers is 64 and their difference is 18. What is the first number? What is the second number?",
+    "lEquations": ["first+second=64.0", "first-second=18.0"],
+    "lSolutions": [41.0, 23.0]
+  },
+  {
+    "iIndex": 1219,
+    "sQuestion": "Suzy has a piggy bank consisting of nickels and dimes. If there are 30 coins worth 1.90 dollars , how many nickels and dimes are in the bank? ",
+    "lEquations": ["0.05*nickels+0.1*dimes=1.9", "nickels+dimes=30.0"],
+    "lSolutions": [22.0, 8.0]
+  },
+  {
+    "iIndex": 6688,
+    "sQuestion": "2 snails are 264 centimeters apart. They craw toward each other at rates that differ by 6 centimeters per minute. After 22 minutes they meet. How fast is each snail crawling?",
+    "lEquations": ["(22.0*snail_one_speed)+(22.0*snail_two_speed)=264.0", "snail_one_speed=6.0+snail_two_speed"],
+    "lSolutions": [3.0, 9.0]
+  },
+  {
+    "iIndex": 2653,
+    "sQuestion": "The manager of a discount clothing store received 2 shipments of Fall clothing. The cost of the first shipment which contained 10 identical sweaters and 20 identical jackets was 800 dollars. The second shipment at the same prices , contained 5 of the same sweaters and 15 of the same jackets. The second shipment was 550 dollars. Find the cost of 1 jacket , in dollars. ",
+    "lEquations": ["(20.0*jackets)+(10.0*sweaters)=800.0", "(15.0*jackets)+(5.0*sweaters)=550.0"],
+    "lSolutions": [30.0]
+  },
+  {
+    "iIndex": 5653,
+    "sQuestion": "2 investments are made totaling 8800 dollars. For a certain year , these investments yield 1326 dollars in simple interest. Part of the 8800 dollars is invested at 16 % and part at 14 %. Find the amount invested at 16 % and 14 %. ",
+    "lEquations": ["((16.0*0.01)*sixteen_investment)+((14.0*0.01)*fourteen_investment)=1326.0", "sixteen_investment+fourteen_investment=8800.0"],
+    "lSolutions": [4700.0, 4100.0]
+  },
+  {
+    "iIndex": 3790,
+    "sQuestion": "Separate 66 into 2 parts so that 0.40 of one part exceeds 0.625 of the other part by 10. What is the smaller part? What is the larger part?",
+    "lEquations": ["0.4*larger=(0.625*smaller)+10.0", "smaller+larger=66.0"],
+    "lSolutions": [16.0, 50.0]
+  },
+  {
+    "iIndex": 2189,
+    "sQuestion": "Snookers Lumber can convert logs into either lumber or plywood. In a given day , the mill turns out three times as many units of plywood as lumber. It makes a profit of 30 dollars on a unit of lumber and 50 dollars on a unit of plywood. Snookers lumber must produce and sell ___ units of lumber and ___ units of plywood to make a profit of 18360 dollars? ",
+    "lEquations": ["(30.0*lumber)+(50.0*plywood)=18360.0", "plywood=3.0*lumber"],
+    "lSolutions": [102.0, 306.0]
+  },
+  {
+    "iIndex": 1191,
+    "sQuestion": "One number is 3 less than twice another. If their sum is 39 , find the numbers. ",
+    "lEquations": ["larger+smaller=39.0", "larger=(2.0*smaller)-3.0"],
+    "lSolutions": [25.0, 14.0]
+  },
+  {
+    "iIndex": 1532,
+    "sQuestion": "The product of 10 and a number is the same as 36 less twice that same number. Find the number.",
+    "lEquations": ["10.0*number=(2.0*number)-36.0"],
+    "lSolutions": [-4.5]
+  },
+  {
+    "iIndex": 3471,
+    "sQuestion": "A woman invested a total of 9,000 dollars in 2 accounts , one earning 6.5 % annual interest and the other earning 8 % annual interest. After 1 year , her combined interest was 678.87 dollars. How much did she invest in the account paying 8 % interest , in dollars? ",
+    "lEquations": ["((6.5*0.01)*low_investment)+((8.0*0.01)*high_investment)=678.87", "low_investment+high_investment=9000.0"],
+    "lSolutions": [6258.0]
+  },
+  {
+    "iIndex": 3311,
+    "sQuestion": "A piggy bank has 50 coins. The coins are either nickels or dimes. The bank has 4.55 dollars in total. How many coins are nickels? How many are dimes?",
+    "lEquations": ["(0.05*nickels)+(0.1*dimes)=4.55", "nickels+dimes=50.0"],
+    "lSolutions": [9.0, 41.0]
+  },
+  { "iIndex": 5184, "sQuestion": "The difference between 3 times a number and 1 is the same as twice a number. Find the number.", "lEquations": ["(3.0*number)-1.0=2.0*number"], "lSolutions": [1.0] },
+  {
+    "iIndex": 6008,
+    "sQuestion": "1 out of 2 numbers is thrice the other. If their sum is 124 , find the numbers. ",
+    "lEquations": ["number_one+number_two=124.0", "number_one=3.0*number_two"],
+    "lSolutions": [31.0, 93.0]
+  },
+  {
+    "iIndex": 1102,
+    "sQuestion": "Three times a number minus a second number is 20. The sum of the two numbers is 48. Find the two numbers.",
+    "lEquations": ["(3.0*number_a)-number_b=20.0", "number_a+number_b=48.0"],
+    "lSolutions": [17.0, 31.0]
+  },
+  {
+    "iIndex": 5841,
+    "sQuestion": "Phyllis invested 39000 dollars , a portion earning a simple interest rate of 4 % per year and the rest earning a rate of 6 % per year. After 1 year the total interest earned on these investments was 1980 dollars. How many dollars did she invest at 4 %? At 6 %? ",
+    "lEquations": ["((4.0*0.01)*four_investment)+((6.0*0.01)*six_investment)=1980.0", "four_investment+six_investment=39000.0"],
+    "lSolutions": [18000.0, 21000.0]
+  },
+  {
+    "iIndex": 7019,
+    "sQuestion": "Admission tickets to a theater were 60 cents for adults and 25 cents for children. Receipts for the day showed that 280 persons attended and 140 dollars was collected. How many children attended that day?",
+    "lEquations": ["(60*.01*adults)+(25*.01*children)=140.0", "adults+children=280.0"],
+    "lSolutions": [80.0]
+  },
+  {
+    "iIndex": 3215,
+    "sQuestion": "The sum of 2 numbers is 70. The second is 10 more than 3 times the first. Find the smaller number. Find the larger number.",
+    "lEquations": ["smaller_number+larger_number=70.0", "larger_number=10.0+(3.0*smaller_number)"],
+    "lSolutions": [15.0, 55.0]
+  },
+  {
+    "iIndex": 6878,
+    "sQuestion": "The sum of two numbers is 62. The greater number exceeds twice the smaller number by 5. What are the two numbers?",
+    "lEquations": ["smaller+larger=62.0", "larger=(2.0*smaller)+5.0"],
+    "lSolutions": [19.0, 43.0]
+  },
+  {
+    "iIndex": 2400,
+    "sQuestion": "There are 2 numbers whose sum is 65 , such that one is 4 times as large as the other. What is the smaller number? What is the larger number? ",
+    "lEquations": ["4.0*smaller=larger", "smaller+larger=65.0"],
+    "lSolutions": [13.0, 52.0]
+  },
+  {
+    "iIndex": 6933,
+    "sQuestion": "There are 30 legs and 13 heads of goats and chicken , so how may goats and chicken are there? ",
+    "lEquations": ["(4.0*goats)+(2.0*chicken)=30.0", "goats+chicken=13.0"],
+    "lSolutions": [2.0, 11.0]
+  },
+  {
+    "iIndex": 139,
+    "sQuestion": "A chemist has a solution that is 18 % alcohol and one that is 50 % alcohol. He wants to make 80 liters of a 30 % solution. How many liters of the 18 % solution should he add? How many liters of the 30 % solution should he add? ",
+    "lEquations": ["(18*.01*eighteen_liters)+(50*.01*fifty_liters)=30*0.01*80.0", "eighteen_liters+fifty_liters=80.0"],
+    "lSolutions": [50.0, 30.0]
+  },
+  {
+    "iIndex": 6135,
+    "sQuestion": "Customers of a phone company can choose between 2 service plans for long distance calls. The first plan has a 22 dollars monthly fee and charges an additional 0.13 dollars for each minute of calls. The second plan has an 8 dollars monthly fee and charges an additional 0.18 dollars for each minute of calls. For how many minutes of calls will the costs of the two plans be equal?",
+    "lEquations": ["22.0+(0.13*minutes)=8.0+(0.18*minutes)"],
+    "lSolutions": [280.0]
+  },
+  {
+    "iIndex": 5018,
+    "sQuestion": "In 1 day , a store sold 1.6 as many DVDs as CDs. The total number of DVDs and CDs sold that day was 273. How many DVDs were sold? ",
+    "lEquations": ["dvds+cds=273.0", "dvds=1.6*cds"],
+    "lSolutions": [168.0]
+  },
+  {
+    "iIndex": 7137,
+    "sQuestion": "In 1 week , a music store sold 9 guitars for a total of of 3611 dollars. Electric guitars sold for 479 dollars each and acoustic guitars sold for 339 dollars each. How many electric guitars were sold? How many acoustic guitars were sold? ",
+    "lEquations": ["(479.0*electric)+(339.0*acoustic)=3611.0", "electric+acoustic=9.0"],
+    "lSolutions": [4.0, 5.0]
+  },
+  {
+    "iIndex": 6452,
+    "sQuestion": "Terry did all 25 problems on his test and got an 85. Scores are computed by giving 4 points for each right answer and subtracting one point for each wrong answer. How many problems did terry get right and wrong?",
+    "lEquations": ["(4.0*right)-(1.0*wrong)=85.0", "right+wrong=25.0"],
+    "lSolutions": [22.0, 3.0]
+  },
+  {
+    "iIndex": 6945,
+    "sQuestion": "1 number is 3 less than twice another number. The sum of the 2 numbers is 51. What is the smaller number? What is the larger number?",
+    "lEquations": ["smaller+larger=51.0", "larger=(2.0*smaller)-3.0"],
+    "lSolutions": [18.0, 33.0]
+  },
+  {
+    "iIndex": 2247,
+    "sQuestion": "Sam has 30 nickels and dimes worth 2.40 dollars. How many nickels does he have?",
+    "lEquations": ["(0.05*nickels)+(0.1*dimes)=2.4", "nickels+dimes=30.0"],
+    "lSolutions": [12.0]
+  },
+  {
+    "iIndex": 1309,
+    "sQuestion": "Trinidad has 2.35 dollars in nickels and dimes. If she has 33 coins in all , how many nickels does she have? How many dimes does she have? ",
+    "lEquations": ["(0.05*nickels)+(0.1*dimes)=2.35", "nickels+dimes=33.0"],
+    "lSolutions": [19.0, 14.0]
+  },
+  {
+    "iIndex": 7110,
+    "sQuestion": "There were 42 people. There were twice as many children as adults. How many children attended?",
+    "lEquations": ["2.0*adults=children", "children+adults=42.0"],
+    "lSolutions": [28.0]
+  },
+  {
+    "iIndex": 2121,
+    "sQuestion": "About 4.9 million households had one brand of personal computers in 2001. The use of these computers grew at an average rate of 0.275 million households a year. In 2001 , about 2.5 millions households used another type of computer. The use of these computers grew at an average rate of 0.7 million households a year. How long will it take for the two types of computers to be in the same number of households? ",
+    "lEquations": ["4.9+(0.275000.0*years)=2.5+(0.7*years)"],
+    "lSolutions": [5.647]
+  },
+  {
+    "iIndex": 2779,
+    "sQuestion": "The shoe store has twice as many black shoes as it does brown shoes. The total number of shoes is 66. How many brown shoes are there?",
+    "lEquations": ["black_shoes=2.0*brown_shoes", "brown_shoes+black_shoes=66.0"],
+    "lSolutions": [22.0]
+  },
+  {
+    "iIndex": 230,
+    "sQuestion": "The sum of 2 numbers is 138. If three times the smaller number is subtracted from the larger number , the result is 22. Find the two numbers. ",
+    "lEquations": ["smaller+larger=138.0", "larger-(3.0*smaller)=22.0"],
+    "lSolutions": [29.0, 109.0]
+  },
+  {
+    "iIndex": 6226,
+    "sQuestion": "Joe sold 30 peaches from his tree for a total of 7.50 dollars. He sold the small ones for 20 cents each and the large ones for 35 cents each. How many small ones did he sell? How many large ones did he sell?",
+    "lEquations": ["(20*.01*small_ones)+(35*.01*large_ones)=7.5", "small_ones+large_ones=30.0"],
+    "lSolutions": [20.0, 10.0]
+  },
+  {
+    "iIndex": 2617,
+    "sQuestion": "Latoya purchased a prepaid phone card for 30 dollars. Long distance calls cost 16 cents a minute using this card. Latoya used her card only once to make a long distance call. If the remaining credit on her card is 26.48 dollars , how many minutes did her call last? ",
+    "lEquations": ["16*.01*minutes=30.0-26.48"],
+    "lSolutions": [22.0]
+  },
+  {
+    "iIndex": 3595,
+    "sQuestion": "2 cars start at the same place and time , and travel in opposite directions. One car is traveling 15 kilometers per hour faster than the other. After 5 hours , the 2 cars are 275 km apart. Find the speed of each car. ",
+    "lEquations": ["(5.0*slower_car)+(5.0*faster_car)=275.0", "15.0+slower_car=faster_car"],
+    "lSolutions": [20.0, 35.0]
+  },
+  {
+    "iIndex": 2095,
+    "sQuestion": "Amber has 30 coins in nickels and dimes. In all she has 2.10 dollars. How many nickels and dimes does she have?",
+    "lEquations": ["(0.05*nickel)+(0.1*dime)=2.1", "nickel+dime=30.0"],
+    "lSolutions": [18.0, 12.0]
+  },
+  {
+    "iIndex": 704,
+    "sQuestion": "Yuri has a board that 98 inches long. He wishes to cut the board into 2 pieces so that one piece will be 10 inches longer than the other. What should the length of the shorter piece be , in inches? What will the length of the longer piece be? ",
+    "lEquations": ["longer+shorter=98.0", "longer=10.0+shorter"],
+    "lSolutions": [44.0, 54.0]
+  },
+  { "iIndex": 6624, "sQuestion": "Twice a number increased by 5 is 17. Find the number.", "lEquations": ["(2.0*number)+5.0=17.0"], "lSolutions": [6.0] },
+  { "iIndex": 6960, "sQuestion": "36 more than the product of three and x is the same as 48. Solve for x.", "lEquations": ["(3.0*x)+36.0=48.0"], "lSolutions": [4.0] },
+  {
+    "iIndex": 6417,
+    "sQuestion": "A total of 32,000 dollars is invested in 2 municipal bonds that pay 5.75 % and 6.25 % simple interest. The investor wants an annual interest income of 1900 dollars from the investments. What amount should be invested in the 5.75 % bond? ",
+    "lEquations": ["((5.75*0.01)*low_investment)+((6.25*0.01)*high_investment)=1900.0", "low_investment+high_investment=32000.0"],
+    "lSolutions": [20000.0]
+  },
+  {
+    "iIndex": 5894,
+    "sQuestion": "The sum of two consecutive even integers is at most 30. What are the greatest possible consecutive even integers?",
+    "lEquations": ["number_1+number_2=30.0", "number_2-number_1=2.0"],
+    "lSolutions": [14.0, 16.0]
+  },
+  { "iIndex": 2677, "sQuestion": "1. Find the 2 numbers whose sum is 108 and whose difference is 24.", "lEquations": ["bigger+smaller=108.0", "bigger-smaller=24.0"], "lSolutions": [42.0, 66.0] },
+  {
+    "iIndex": 6334,
+    "sQuestion": "The Lakers scored 43 points on a combination of 20 two point baskets and three point baskets. How many shots of two point baskets and how many shots of three point baskets were made?",
+    "lEquations": ["(2.0*two_point_baskets)+(3.0*three_point_baskets)=43.0", "two_point_baskets+three_point_baskets=20.0"],
+    "lSolutions": [17.0, 3.0]
+  },
+  {
+    "iIndex": 3202,
+    "sQuestion": "A small publishing company has a 1 time product cost for editing and printing of 56,430.00 dollars. Variable cost per book is 8.25 dollars. The publisher is selling the book to the store for 21.75 dollars. How many books must the publisher print and sell so that the production cost will equal the money obtained from sells? ",
+    "lEquations": ["(21.75*books)-(8.25*books)=56430.0"],
+    "lSolutions": [4180.0]
+  },
+  {
+    "iIndex": 371,
+    "sQuestion": "The sum of 2 numbers is 24. Seven times the smaller number is the same as 5 times the larger number. Find the smaller number. ",
+    "lEquations": ["7.0*smaller=5.0*larger", "smaller+larger=24.0"],
+    "lSolutions": [10.0]
+  },
+  {
+    "iIndex": 6322,
+    "sQuestion": "There are 22 chickens and cows on a farm. Together they have 60 legs. How many chickens are there? How many cows?",
+    "lEquations": ["(2.0*chickens)+(4.0*cows)=60.0", "chickens+cows=22.0"],
+    "lSolutions": [14.0, 8.0]
+  },
+  {
+    "iIndex": 6925,
+    "sQuestion": "Admission tickets to a football game were 60 cents for adults and 25 cents for children. Receipts for the day showed that 280 persons attended and 140 dollars was collected. How many adults attended? How many children attended?",
+    "lEquations": ["(60*.01*noof_adults)+(25*.01*noof_childrens)=140.0", "noof_adults+noof_childrens=280.0"],
+    "lSolutions": [200.0, 80.0]
+  },
+  {
+    "iIndex": 353,
+    "sQuestion": "A baseball player has a batting average of 0.320 with 192 hits in 600 bats. His average against left-handed pitching is 0.250. Against right-handed pitching it is 0.350. How many times did he bat against left-handers? ",
+    "lEquations": ["(0.25*left)+(0.35*right)=192.0", "left+right=600.0"],
+    "lSolutions": [180.0]
+  },
+  {
+    "iIndex": 6075,
+    "sQuestion": "Old McDonald has 15 goats and chickens on his farm. The animals combined have a total of 34 legs. Assuming there are no physical defects , how many goats are on the farm? How many chickens are on the farm? ",
+    "lEquations": ["(2.0*chickens)+(4.0*goats)=34.0", "goats+chickens=15.0"],
+    "lSolutions": [2.0, 13.0]
+  },
+  {
+    "iIndex": 5145,
+    "sQuestion": "If 6 is subtracted from three times a number , the difference is twice the number. What is the number? ",
+    "lEquations": ["(3.0*number)-6.0=2.0*number"],
+    "lSolutions": [6.0]
+  },
+  {
+    "iIndex": 5089,
+    "sQuestion": "A farmer had some chickens and some cows. She counted 40 heads and 126 legs. How many chickens and how many cows did she have?",
+    "lEquations": ["(2.0*chickens)+(4.0*cows)=126.0", "chickens+cows=40.0"],
+    "lSolutions": [17.0, 23.0]
+  },
+  {
+    "iIndex": 6666,
+    "sQuestion": "Two times the first number is one more than the second number. If their sum is -64 , what are the two numbers? ",
+    "lEquations": ["2.0*first_number=1.0+second_number", "first_number+second_number=(-64.0)"],
+    "lSolutions": [-21.0, -43.0]
+  },
+  {
+    "iIndex": 5632,
+    "sQuestion": "During 2005 major league baseball season , the Chicago White Sox played 162 games. They won 36 more than they lost. How many games did they win , and how many did they lose? ",
+    "lEquations": ["win+lose=162.0", "win=36.0+lose"],
+    "lSolutions": [99.0, 63.0]
+  },
+  {
+    "iIndex": 2658,
+    "sQuestion": "2 teachers are going to a conference for a few days. Mrs. Jerrerson plans on spending 502 dollars on 14 meals and 4 nights in a hotel. Mrs. Lloyd plans on spending 370 dollars on 10 meals and 3 nights in a hotel. How much are they planning on spending per meal and per night for a hotel?",
+    "lEquations": ["(14.0*meal)+(4.0*hotel)=502.0", "(10.0*meal)+(3.0*hotel)=370.0"],
+    "lSolutions": [13.0, 80.0]
+  },
+  {
+    "iIndex": 3159,
+    "sQuestion": "Maria added a white vinegar solution of acetic acid in water. There are 2 strengths of white vinegar, a 5 % solution and a 10 % solution. How many milliliters of the 5 % solution and the 10% solution must she mix to make 50 milliliters of a 9 % vinegar solution?",
+    "lEquations": ["((5.0*0.01)*five_solution)+((10.0*0.01)*ten_solution)=9.0*0.01*50.0", "five_solution+ten_solution=50.0"],
+    "lSolutions": [10.0, 40.0]
+  },
+  { "iIndex": 6444, "sQuestion": "Seven times a number is the same as 12 more than 3 times the number. Find the number.", "lEquations": ["7.0*number=12.0+(3.0*number)"], "lSolutions": [3.0] },
+  {
+    "iIndex": 767,
+    "sQuestion": "The sum of two numbers is 18. If twice the smaller number is 6 more than the larger , find the smaller number and the larger number. ",
+    "lEquations": ["2.0*smaller=6.0+larger", "smaller+larger=18.0"],
+    "lSolutions": [8.0, 10.0]
+  },
+  {
+    "iIndex": 1939,
+    "sQuestion": "A customer walks into an electronics store and buys 5 MP3 players and 8 sets of headphones , paying 840 dollars. A 2nd customer buys 3 MP3 players and 4 sets of headphones , and pays 480 dollars. How much does an MP3 player cost? How much does a set of headphones cost? ",
+    "lEquations": ["(5.0*mp3)+(8.0*headphone)=840.0", "(3.0*mp3)+(4.0*headphone)=480.0"],
+    "lSolutions": [120.0, 30.0]
+  },
+  {
+    "iIndex": 2291,
+    "sQuestion": "To make 10 kilograms of aluminum alloy with 60 % aluminum , a scientist wants to use 2 metals with 45 % and 70 % aluminum content respectively. How many kilograms of 45 % aluminum and how many kilograms of 70 % aluminum should she mix?",
+    "lEquations": ["((45.0*0.01)*fortyfive_aluminum)+((70.0*0.01)*seventy_aluminum)=(10.0*60.0)*0.01", "fortyfive_aluminum+seventy_aluminum=10.0"],
+    "lSolutions": [4.0, 6.0]
+  },
+  {
+    "iIndex": 6949,
+    "sQuestion": "A child has 17.55 dollars worth of nickels and dimes in her piggy bank. There are a total of 207 coins. How many nickels does she have? How many dimes does she have?",
+    "lEquations": ["(0.05*nickels)+(0.1*dimes)=17.55", "nickels+dimes=207.0"],
+    "lSolutions": [63.0, 144.0]
+  },
+  {
+    "iIndex": 6139,
+    "sQuestion": "Two numbers are in the ratio 8 to 3. If the sum of numbers is 143 , find the numbers. ",
+    "lEquations": ["3.0*number_1=8.0*number_2", "number_1+number_2=143.0"],
+    "lSolutions": [39.0, 104.0]
+  },
+  {
+    "iIndex": 5997,
+    "sQuestion": "2 trains leave simultaneously traveling on the same track in opposite directions at speeds of 50 and 64 miles per hour. How many hours will it take before they are 285 miles apart?",
+    "lEquations": ["(50.0*hours)+(64.0*hours)=285.0"],
+    "lSolutions": [2.5]
+  },
+  {
+    "iIndex": 27,
+    "sQuestion": "Suppose you invested 10,000 dollars , part at 6 % annual interest and the rest at 9 % annual interest. If you received 684 dollars in interest after one year , how much did you invest at 6 % annual interest and at 9 % annual interest? ",
+    "lEquations": ["(6*.01*six_percent)+(9*.01*nine_percent)=684.0", "six_percent+nine_percent=10000.0"],
+    "lSolutions": [7200.0, 2800.0]
+  },
+  {
+    "iIndex": 370,
+    "sQuestion": "Steve has 36 coins consisting of dimes and nickels. If the value of the coins is 3.10 dollars , then how many dimes does he have? ",
+    "lEquations": ["(0.05*nickels)+(0.1*dimes)=3.1", "nickels+dimes=36.0"],
+    "lSolutions": [26.0]
+  },
+  { "iIndex": 200, "sQuestion": "The sum of 0.75 of a number and two is eight. Find the number. ", "lEquations": ["(0.75*number)+2.0=8.0"], "lSolutions": [8.0] },
+  {
+    "iIndex": 5783,
+    "sQuestion": "The sum of 2 numbers is 15. 3 times one of the numbers is 11 less than 5 times the other. What is the smaller number? What is the larger number?",
+    "lEquations": ["3.0*number_one=(5.0*number_two)-11.0", "number_one+number_two=15.0"],
+    "lSolutions": [7.0, 8.0]
+  },
+  {
+    "iIndex": 5842,
+    "sQuestion": "The number of boys in eighth grade is 16 less than twice the number of girls. There are 68 students in eighth grade. How many are girls?",
+    "lEquations": ["(2.0*girls)-16.0=boys", "girls+boys=68.0"],
+    "lSolutions": [28.0]
+  },
+  {
+    "iIndex": 6239,
+    "sQuestion": "2 high speed trains are 380 miles apart and traveling toward each other. They meet in 4 hours. If one train is 15 miles per hour faster than the other , find the speed of the slower train in miles per hour. Find the speed of the faster train. ",
+    "lEquations": ["(4.0*slower_train)+(4.0*faster_train)=380.0", "15.0+slower_train=faster_train"],
+    "lSolutions": [40.0, 55.0]
+  },
+  {
+    "iIndex": 6958,
+    "sQuestion": "During a 4th of July weekend , 32 vehicles became trapped on the Sunshine Skyway Bridge while it was being repaved. A recent city ordinance decreed that only cars with 4 wheels and trucks with six wheels could be on the bridge at any given time. If there were 148 tires that needed to be replaced to due to damage , how many cars and trucks were involved in the incident? ",
+    "lEquations": ["(4.0*cars)+(6.0*trucks)=148.0", "cars+trucks=32.0"],
+    "lSolutions": [22.0, 10.0]
+  },
+  {
+    "iIndex": 6241,
+    "sQuestion": "There are 21 animals total , all sheep and chickens. If there are 56 legs total , how many of the 21 animals are sheep? How many are chickens? ",
+    "lEquations": ["(4.0*sheep)+(2.0*chickens)=56.0", "sheep+chickens=21.0"],
+    "lSolutions": [7.0, 14.0]
+  },
+  {
+    "iIndex": 6826,
+    "sQuestion": "Maggie has a job working in an office for 10 dollars an hour and another job driving a tractor for 12 dollars an hour. One week she works in the office twice as long as she drives the tractor. Her total income for that week is 416 dollars. How many hours did she spend at the office? How many hours driving the tractor?",
+    "lEquations": ["(10.0*office_hours)+(12.0*tractor_hours)=416.0", "office_hours=2.0*tractor_hours"],
+    "lSolutions": [26.0, 13.0]
+  },
+  {
+    "iIndex": 657,
+    "sQuestion": "2 teams of scientists leave a university at the same time in special vans to search for tornadoes. the 1st team travel east at 20 miles per hour and the 2nd team travels west at 30 miles per hour. their radios have a range of 125 miles. How much time will pass before the scientists lose radio contact?",
+    "lEquations": ["(20.0*hours)+(30.0*hours)=125.0"],
+    "lSolutions": [2.5]
+  },
+  {
+    "iIndex": 2670,
+    "sQuestion": "In a family there are 2 cars. The sum of the average miles per gallon obtained by the two cars in a particular week is 45. The first car has consumed 40 gallons during that week , and the second car has consumed 20 gallons , for a total of 1400 miles driven by the two cars combined. What was the average gas mileage obtained by each of the 2 cars that week? ",
+    "lEquations": ["(40.0*average_first)+(20.0*average_second)=1400.0", "average_first+average_second=45.0"],
+    "lSolutions": [25.0, 20.0]
+  },
+  {
+    "iIndex": 1315,
+    "sQuestion": "The sum of 2 numbers is 27. 0.5 of the first number plus 0.3333 of the second number is 11. Find the smaller and the larger number.",
+    "lEquations": ["0.5*smaller+0.3333*larger=11.0", "smaller+larger=27.0"],
+    "lSolutions": [12.0, 15.0]
+  },
+  {
+    "iIndex": 920,
+    "sQuestion": "In the 2000-2001 baseball season , the Seattle Mariners tied a league record set by the 1906 Chicago Cubs for most wins in a season. The Mainers won 24 more than twice as many games as they lost. They played 162 regular season games. How many wins and losses did the mariners have? ",
+    "lEquations": ["wins+losses=162.0", "wins=(2.0*losses)+24.0"],
+    "lSolutions": [116.0, 46.0]
+  },
+  {
+    "iIndex": 2990,
+    "sQuestion": "A total of 366 tickets were sold for the school play. The number of student tickets sold was two times the number of adult tickets sold. How many adult tickets were sold?",
+    "lEquations": ["adult_tickets+student_tickets=366.0", "student_tickets=2.0*adult_tickets"],
+    "lSolutions": [122.0]
+  },
+  {
+    "iIndex": 1366,
+    "sQuestion": "The length of a rectangular field is 24 meters. This is 3 meters less than twice the width. Find the width.",
+    "lEquations": ["(2.0*width)-3.0=24.0"],
+    "lSolutions": [13.5]
+  },
+  {
+    "iIndex": 1090,
+    "sQuestion": "The sum of two numbers is 48. The difference between three times the smaller number and the larger number is 16. Find the smaller number and the larger number.",
+    "lEquations": ["(3.0*smaller)-larger=16.0", "smaller+larger=48.0"],
+    "lSolutions": [16.0, 32.0]
+  },
+  {
+    "iIndex": 155,
+    "sQuestion": "A piece of rope 60 meters long is cut into two pieces so that the longest piece is twice as long as the shorter piece. How long are the two pieces? ",
+    "lEquations": ["2.0*shorter=longest", "shorter+longest=60.0"],
+    "lSolutions": [20.0, 40.0]
+  },
+  {
+    "iIndex": 38,
+    "sQuestion": "There are 41 animals on a farm , each of which is either a pig or a chicken. There are 100 legs altogether. How many pigs are there? How many chickens? ",
+    "lEquations": ["(4.0*pigs)+(2.0*chickens)=100.0", "pigs+chickens=41.0"],
+    "lSolutions": [9.0, 32.0]
+  },
+  {
+    "iIndex": 425,
+    "sQuestion": "Six apples and three oranges cost 1.77 dollars. Two apples and five oranges cost 1.27 dollars. Find the cost of each apple and the cost of an orange. ",
+    "lEquations": ["(6.0*apples)+(3.0*oranges)=1.77", "(2.0*apples)+(5.0*oranges)=1.27"],
+    "lSolutions": [0.21, 0.17]
+  },
+  {
+    "iIndex": 2066,
+    "sQuestion": "Adult tickets for a show cost 5.50 dollars while children 's tickets cost 2.50 dollars. If there were twice as many adults as children and the total receipts for the show were 1026 dollars. How many adults were at the show?",
+    "lEquations": ["(5.5*adult_ticket)+(2.5*children_ticket)=1026.0", "adult_ticket=2.0*children_ticket"],
+    "lSolutions": [152.0]
+  },
+  {
+    "iIndex": 6957,
+    "sQuestion": "A 177-inch pipe is cut into two pieces. One piece is two times the length of the other. Find the lengths of the two pieces.",
+    "lEquations": ["piece1+piece2=177.0", "piece1=2.0*piece2"],
+    "lSolutions": [59.0, 118.0]
+  },
+  {
+    "iIndex": 376,
+    "sQuestion": "Jack collects baseball and football cards. He has 125 cards total. The number of baseball cards he has is five more than three times the number of football cards. How many baseball and football cards does he have? ",
+    "lEquations": ["baseball+football=125.0", "baseball=5.0+(3.0*football)"],
+    "lSolutions": [95.0, 30.0]
+  },
+  {
+    "iIndex": 2481,
+    "sQuestion": "One integer is twice another , and their sum is 96. Find the smaller and larger integer. ",
+    "lEquations": ["2.0*smaller=larger", "smaller+larger=96.0"],
+    "lSolutions": [32.0, 64.0]
+  }
+]
