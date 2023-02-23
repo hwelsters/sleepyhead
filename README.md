@@ -11,4 +11,4 @@
 - Calculate causality values
 - Model fitting -> tries out base models and then tries numerous combinations of ensembling, boosting and stacking outputs everything into json.
 - Wake up
-- 💰
+- Profit 💰
