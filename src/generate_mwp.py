@@ -2,7 +2,6 @@ import sympy
 import pandas
 import re
 import os
-import numpy
 
 pandas.options.mode.chained_assignment = None  # default='warn'
 

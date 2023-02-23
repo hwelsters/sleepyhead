@@ -5,3 +5,5 @@
 [✔️] Generate variations of math word problems  
 [❌] Calculate causality values  
 [❌] Data analysis for good naptimes  
+
+MIGHT SPLIT ALL THESE THINGS INTO THEIR OWN REPOS LOL
