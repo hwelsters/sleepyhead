@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/84760072/221041560-842b16a1-6ed4-4625-a301-b4fc258fda4d.png)
-![image](https://user-images.githubusercontent.com/84760072/221075333-b26cf74a-bb0a-4291-b4e1-859716789258.png)
+![image](https://user-images.githubusercontent.com/84760072/221075378-b7c6d786-c0dc-4c12-80d1-d837056d1be3.png)
 
 <p align="center">
   For doing data collection and analysis related to ChatGPT research while sleeping 💤.
