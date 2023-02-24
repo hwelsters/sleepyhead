@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/84760072/221109072-57d74034-061a-4c86-ac8c-7cf34d3994d5.png)
+![image](https://user-images.githubusercontent.com/84760072/221109139-8d0d5250-3c66-4e4e-a537-0cc2f58641a7.png)
 
 <p align="center">
   For doing data collection, analysis and research related to ChatGPT while sleeping 💤.
