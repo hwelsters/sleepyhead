@@ -10,7 +10,7 @@
 
 
 
-### Steps
+## Steps
 - Generates math questions (generated math equations do not enforce semantic limitations.)
 - Asks ChatGPT math equations
 - Calculate causality values
