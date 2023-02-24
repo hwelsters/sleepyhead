@@ -106,5 +106,5 @@ def generate_variations():
     input_data = pandas.read_json(f"{template_file_path}{data_file_path}")
     
 
-generate_template_file()
-generate_variations()
+# generate_template_file()
+# generate_variations()
