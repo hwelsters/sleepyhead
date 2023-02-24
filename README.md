@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/84760072/221041560-842b16a1-6ed4-4625-a301-b4fc258fda4d.png)
 
 <p align="center">
-  For doing data collection and analysis related to ChatGPT research while sleeping 💤.
+  For doing data collection, analysis and research related to ChatGPT while sleeping 💤.
 </p>
 
 
@@ -16,8 +16,7 @@
 
 ## Get involved
 - 🐛 **Found a bug?** - Create an [issue][issue]  
-- 💬 **Communication platforms** - Communication platforms pending...    
-- ⚙️ **Interested in adding a feature?** - Check out the [project roadmap](ROADMAP.md).   
+- ⚙️ **Interested in adding a feature?** - Check out the [project roadmap](ROADMAP.md) or suggest your own changes by creating an [issue][issue]   
 - 📖 **Can we improve the documentation?** - Even pull requests for small changes can be helpful. Feel free to change the [documentation][docs]!    
   
 [bugs]: https://github.com/hwelsters/axolotl-src/issues
@@ -32,3 +31,4 @@
 - S. Upadhyay, M.-W. Chang, DRAW: A Challenging and Diverse Algebra Word Problem Set, ([link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tech_rep.pdf))
 - S. Upadhyay, M.-W. Chang, DRAW-1K dataset, ([link](https://paperswithcode.com/dataset/draw-1k#:~:text=DRAW%2D1K%20is%20a%20dataset,derivation%20of%20an%20equation%20system.))
 - S. Kleinberg, B. Mishra, The Temporal Logic of Causal Structures ([link](http://www.skleinberg.org/papers/uai09.pdf))
+- D. Saxton, E. Grefenstette, F. Hill, P. Kohli, Analysing Mathematical Reasoning Abilities of Neural Models ([link](https://openreview.net/pdf?id=H1gR5iR5FX))
