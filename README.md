@@ -14,3 +14,7 @@
 - Model fitting -> tries out base models and then tries numerous combinations of ensembling, boosting and stacking outputs everything into json.
 - Wake up
 - Profit 💰
+
+## Credits
+ALG514 dataset 
+DRAW-1K dataset
