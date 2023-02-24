@@ -6,7 +6,7 @@
 
 
 ## Steps
-- Generates math questions (generated math equations do not enforce semantic limitations.)
+- Generated a dataset of math question sets
 - Asks ChatGPT math equations
 - Calculate causality values
 - Model fitting -> tries out base models and then tries numerous combinations of ensembling, boosting and stacking outputs everything into json.
