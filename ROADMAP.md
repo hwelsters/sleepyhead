@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/84760072/221113435-e971d65f-17fd-41ef-a441-050db0943122.png)
 
 <p align="center">
-  Why am I making our READMEs dope-looking instead of working? Yes.
+  Why am I making our READMEs dope-looking instead of working? Yes, the answer is yes
 </p>
-
+<br/>
 [✔️] Binary vector operations (negation, conjnunction, disjunction, conditional_probability)  
 [✔️] ChatGPT question ask-er  
 [✔️] Scheduler for asking ChatGPT questions (sleepychat)  
