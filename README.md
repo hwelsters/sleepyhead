@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/84760072/221041560-842b16a1-6ed4-4625-a301-b4fc258fda4d.png)
+![image](https://user-images.githubusercontent.com/84760072/221109482-cc57c5a9-2d6b-42cc-b8e1-fd91ec2c733b.png)
 
 <p align="center">
   For doing data collection, analysis and research related to ChatGPT while sleeping 💤.
@@ -17,7 +17,14 @@
 ## Get involved
 - 🐛 **Found a bug?** - Create an [issue][issue]  
 - ⚙️ **Interested in adding a feature?** - Check out the [project roadmap](ROADMAP.md) or suggest your own changes by creating an [issue][issue]   
-- 📖 **Can we improve the documentation?** - Even pull requests for small changes can be helpful. Feel free to change the [documentation][docs]!    
+- 📖 **Can we improve the documentation?** - Even pull requests for small changes can be helpful. Feel free to change the [documentation][docs]!  
+- 😵 **See something wrong with the dataset?** - While our dataset may be accurate most of the time, there are cases where the solutions might not make sense in relation to the question.  
+  
+For example, take this question:
+```
+The sum of two consecutive odd integers is at least 36 . What are the integers ?
+```
+Our algorithms do not pick up constraints between two numbers. Constraints like these have to be tuned by hand. (Interestingly, our algorithm actually filters this question out but there definitely will be cases where our code is susceptible.)
   
 [bugs]: https://github.com/hwelsters/axolotl-src/issues
 [issue]: https://github.com/hwelsters/axolotl-src/issues
