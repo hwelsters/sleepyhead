@@ -1,4 +1,4 @@
-![image](../../images/chat.png)
+![image](../../images/sleepyhead_logo.png)
 ![image](../../images/mwp_set.png)
 
 <p align="center">
