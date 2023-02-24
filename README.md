@@ -28,5 +28,6 @@
   
 ## Credits
 - ALG514 dataset  
-- DRAW-1K dataset  
-- RevChatGPT
+- S. Upadhyay, M.-W. Chang, DRAW: A Challenging and Diverse Algebra Word Problem Set, ([link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tech_rep.pdf))
+- S. Upadhyay, M.-W. Chang, DRAW-1K dataset, ([link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tech_rep.pdf))
+- S. Kleinberg, B. Mishra, The Temporal Logic of Causal Structures ([link](http://www.skleinberg.org/papers/uai09.pdf))
