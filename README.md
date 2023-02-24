@@ -21,9 +21,9 @@ All help is appreciated!
   
 - 💬 **Communication platforms** - Communication platforms pending...    
   
-- ⚙️ **Interested in fixing a [bug][bugs] or adding a feature?** ==> Check out the [project roadmap](ROADMAP.md).   
+- ⚙️ **Interested in fixing a [bug][bugs] or adding a feature?** - Check out the [project roadmap](ROADMAP.md).   
   
-- 📖 **Can we improve [the documentation][docs]?** ==> Even pull requests for small changes can be helpful. Feel free to submit a pull request!    
+- 📖 **Can we improve [the documentation][docs]?** - Even pull requests for small changes can be helpful. Feel free to submit a pull request!    
   
 [bugs]: https://github.com/hwelsters/axolotl-src/issues
 [issue]: https://github.com/hwelsters/axolotl-src/issues
