@@ -1,7 +1,7 @@
 ## TODO  
 [✔️] Binary vector operations (negation, conjnunction, disjunction, conditional_probability)  
 [✔️] ChatGPT question ask-er  
-[✔️] Scheduler for asking ChatGPT questions (sleepychat)
+[✔️] Scheduler for asking ChatGPT questions (sleepychat)  
 [✔️] Generate templates of math word problems  (sleepymwp)  
 [❌] Generate variations of math word problems  (sleepymwp)  
 [❌] Calculate causality values  (sleepycausality)  
