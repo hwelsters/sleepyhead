@@ -1,9 +1,6 @@
-![image][logo]
-![image][causality]
+![image](../../images/sleepyhead_logo.png)
+![image](../../images/causality.png)
 
 <p align="center">
   Calculate causality and fit models 💤.
 </p>
-
-[logo]:[images/sleepyhead_logo.png]
-[causality]: [images/causality.png]

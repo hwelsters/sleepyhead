@@ -1,9 +1,6 @@
-![image][logo]
-![image][chat]
+![image](../../images/sleepyhead_logo.png)
+![image](../../images/chat.png)
 
 <p align="center">
   Talking to ChatGPT in your sleep.
 </p>
-
-[logo]:[images/sleepyhead_logo.png]
-[chat]: [images/chat.png]
