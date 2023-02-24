@@ -7,9 +7,9 @@
 
 ## Steps
 - Generated a dataset of math question sets using preexisting datasets as templates.
+- Brute-force model-fitting
 - Asks ChatGPT math equations
 - Calculate causality values
-- Model fitting -> tries out base models and then tries numerous combinations of ensembling, boosting and stacking outputs everything into json.
 - Sleep for 8 hrs (important for brain function)
 - Wake up
 - Profit 💰
