@@ -1,5 +1,0 @@
-revChatGPT==2.3.6
-pandas==1.5.2
-schedule==1.1.0
-sympy==1.11.1
-numpy==1.23.4
