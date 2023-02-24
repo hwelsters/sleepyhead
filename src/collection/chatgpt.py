@@ -6,8 +6,6 @@ import json
 
 load_dotenv()
 
-FAILED_RESPONSE = "{\"detail\":\"Too many requests in 1 hour. Try again later.\"}"
-
 data_file_path = "data/original/"
 output_file_path = "output/original/"
 question_file_path = "draw.json"
@@ -48,10 +46,6 @@ def ask_all_questions() -> None:
         if index <= last_index: continue
 
         chatgpt_response = ask_chat_gpt(row[question_column])
-
-        if chatgpt_response == FAILED_RESPONSE: 
-            print("FAILED")
-            return
             
         row_to_append = {
             "question_number": index,

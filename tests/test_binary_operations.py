@@ -1,4 +1,4 @@
-from ..src import binary_operations
+import binary_operations
 import pandas
 import pandas.testing as testing
 
