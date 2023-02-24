@@ -34,4 +34,4 @@
 - S. Kleinberg, B. Mishra, The Temporal Logic of Causal Structures ([link](http://www.skleinberg.org/papers/uai09.pdf))
 - D. Saxton, E. Grefenstette, F. Hill, P. Kohli, Analysing Mathematical Reasoning Abilities of Neural Models ([link](https://openreview.net/pdf?id=H1gR5iR5FX))
 
-[logo]:[images/sleepyhead_logo.png]
+[logo]: [images/sleepyhead_logo.png]
