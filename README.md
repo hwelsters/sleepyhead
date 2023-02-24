@@ -1,15 +1,15 @@
-![image](https://user-images.githubusercontent.com/84760072/221109482-cc57c5a9-2d6b-42cc-b8e1-fd91ec2c733b.png)
+![image](https://user-images.githubusercontent.com/84760072/221271410-5b7b9954-510c-471c-b661-ff2345d9bece.png)
 
 <p align="center">
-  For doing data collection, analysis and research related to ChatGPT while sleeping 💤.
+  Data collection, analysis, dataset generation and research related to math / ChatGPT while sleeping 💤.
 </p>
 
 
 ## Steps
-- Generates math questions (generated math equations do not enforce semantic limitations.)
+- Generated a dataset of math question sets using preexisting datasets as templates.
+- Brute-force model-fitting
 - Asks ChatGPT math equations
 - Calculate causality values
-- Model fitting -> tries out base models and then tries numerous combinations of ensembling, boosting and stacking outputs everything into json.
 - Sleep for 8 hrs (important for brain function)
 - Wake up
 - Profit 💰
@@ -18,13 +18,7 @@
 - 🐛 **Found a bug?** - Create an [issue][issue]  
 - ⚙️ **Interested in adding a feature?** - Check out the [project roadmap](ROADMAP.md) or suggest your own changes by creating an [issue][issue]   
 - 📖 **Can we improve the documentation?** - Even pull requests for small changes can be helpful. Feel free to change the [documentation][docs]!  
-- 😵 **See something wrong with the dataset?** - While our dataset may be accurate most of the time, there are cases where the solutions might not make sense in relation to the question.  
-  
-For example, take this question:
-```
-The sum of two consecutive odd integers is at least 36 . What are the integers ?
-```
-Our algorithms do not pick up constraints between two numbers. Constraints like these have to be tuned by hand. (Interestingly, our algorithm actually filters this question out but there definitely will be cases where our code is susceptible.)
+- 😵 **See something wrong with the dataset?** - While our dataset may be accurate most of the time, we make the assumption that the preexisting datasets have the correct working.
   
 [bugs]: https://github.com/hwelsters/axolotl-src/issues
 [issue]: https://github.com/hwelsters/axolotl-src/issues

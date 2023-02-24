@@ -58,3 +58,6 @@ from sklearn.mixture import GMM
 from sklearn.mixture import GaussianMixture
 from sklearn.mixture import VBGMM
 ```
+
+
+I may or may not separate each functional folder into its own GitHub repo
