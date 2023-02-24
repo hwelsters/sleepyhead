@@ -35,27 +35,33 @@ if not os.path.exists(output_file_path):
 if not os.path.exists(filter_file_path):
     os.makedirs(filter_file_path)
 
-def is_integer(solution : float):
+
+def is_integer(solution: float):
     return solution.is_integer()
 
-def is_positive(solution : float):
+
+def is_positive(solution: float):
     return solution > 0
 
-def get_constraints(solution : float):
+
+def get_constraints(solution: float):
     return {
         "integer": is_integer(float),
         "positive": is_positive
     }
 
+
 def get_numbers(text: str):
     text = text.replace(",", "")
     decimals = re.findall("[0-9]+\.?[0-9]*", text)
 
-    for i in range(decimals.count("0.01")): decimals.remove("0.01")
+    for i in range(decimals.count("0.01")):
+        decimals.remove("0.01")
 
     return decimals
 
-def get_template_text(text : str, number_map):
+
+def get_template_text(text: str, number_map):
     numbers = get_numbers(text)
     print(text)
     print(numbers)
@@ -65,24 +71,32 @@ def get_template_text(text : str, number_map):
         text = text.replace(number, number_map[float(number)], 1)
     return text
 
-def get_template_equations(equations : pandas.DataFrame, number_map):
+
+def get_template_equations(equations: pandas.DataFrame, number_map):
     template_equation = []
     for equation in equations:
         template_equation += [get_template_text(equation, number_map)]
     return str(template_equation)
 
+
 def generate_template_file():
     input_data = pandas.read_json(f"{input_file_path}{data_file_path}")
+
+    question_numbers = input_data.apply(
+        lambda row: get_numbers(row[QUESTION_COLUMN]), axis=1)
+    equation_numbers = input_data.apply(
+        lambda row: get_numbers(str(row[EQUATIONS_COLUMN])), axis=1)
+
+    float_question_numbers = question_numbers.apply(
+        lambda row: set([float(x) for x in row]))
+    float_equation_numbers = equation_numbers.apply(
+        lambda row: set([float(x) for x in row]))
     
-    question_numbers = input_data.apply(lambda row : get_numbers(row[QUESTION_COLUMN]), axis = 1)
-    equation_numbers = input_data.apply(lambda row : get_numbers(str(row[EQUATIONS_COLUMN])), axis = 1)
-    
-    float_question_numbers = question_numbers.apply(lambda row : set([float(x) for x in row]))
-    float_equation_numbers = equation_numbers.apply(lambda row : set([float(x) for x in row]))
     valid = float_equation_numbers == float_question_numbers
 
     # FILTER OUT FAILED QUESTIONS FOR FURTHER ANALYSIS
-    input_data[valid == False].to_json(f"{filter_file_path}{data_file_path}", orient="records")
+    input_data[valid == False].to_json(
+        f"{filter_file_path}{data_file_path}", orient="records")
 
     valid_data = input_data[valid == True]
 
@@ -92,19 +106,25 @@ def generate_template_file():
 
         for i, number in enumerate(numbers):
             number_map[float(number)] = f"[{chr(i + ord('a'))}]"
-        
-        valid_data.loc[index, "numbers"] = str(numbers)
-        valid_data.loc[index, QUESTION_COLUMN] = get_template_text(valid_data.loc[index, QUESTION_COLUMN], number_map)
-        valid_data.loc[index, EQUATIONS_COLUMN] = get_template_equations(valid_data.loc[index, EQUATIONS_COLUMN], number_map)
-        
-    valid_data[EQUATIONS_COLUMN] = valid_data.apply(lambda row : eval(row[EQUATIONS_COLUMN]), axis=1)
-    valid_data["numbers_len"] = valid_data.apply(lambda row : len(eval(row["numbers"])), axis=1)
 
-    valid_data.to_json(f"{template_file_path}{data_file_path}", orient="records")
+        valid_data.loc[index, "numbers"] = str(numbers)
+        valid_data.loc[index, QUESTION_COLUMN] = get_template_text(
+            valid_data.loc[index, QUESTION_COLUMN], number_map)
+        valid_data.loc[index, EQUATIONS_COLUMN] = get_template_equations(
+            valid_data.loc[index, EQUATIONS_COLUMN], number_map)
+
+    valid_data[EQUATIONS_COLUMN] = valid_data.apply(
+        lambda row: eval(row[EQUATIONS_COLUMN]), axis=1)
+    valid_data["numbers_len"] = valid_data.apply(
+        lambda row: len(eval(row["numbers"])), axis=1)
+
+    valid_data.to_json(
+        f"{template_file_path}{data_file_path}", orient="records")
+
 
 def generate_variations():
     input_data = pandas.read_json(f"{template_file_path}{data_file_path}")
-    
+
 
 generate_template_file()
 generate_variations()

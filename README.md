@@ -25,7 +25,7 @@
 [docs]: documentation
 [line]: https://user-images.githubusercontent.com/84760072/220297409-f97511e8-95e5-4204-9217-67d9f9353b76.png
 [cecdown]: https://github.com/hwelsters/cecdown
-  
+
 ## References
 - N. Kushman, Y. Artzi, L. Zettlemoyer, R. Barzilay, Learning to Automatically Solve Algebra Word Problems ([link](https://aclanthology.org/P14-1026.pdf))
 - N. Kushman, Y. Artzi, L. Zettlemoyer, R. Barzilay, ALG-514 dataset ([link](https://groups.csail.mit.edu/rbg/code/wordprobs/))
