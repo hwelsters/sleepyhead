@@ -13,7 +13,7 @@
 [❌] Generate variations of math word problems  (sleepymwp)  
 [❌] Calculate causality values  (sleepycausality)  
 [❌] Turn into usable pip package 🥩  
-[❌] Data analysis for good naptimes  (sleepylearn). All this + XGBoost (maybe TF or PyTorch if we can successfully conform it to our chosen interface:
+[❌] Data analysis for good naptimes  (sleepylearn). All this + XGBoost (maybe TF or PyTorch if we can successfully conform it to our chosen interface. Some other decisions have to be made. For example, how do we evaluate the performance of a model? Cross validation? Something else?:
 ```
 from sklearn.tree import ExtraTreeClassifier
 from sklearn.tree import DecisionTreeClassifier
