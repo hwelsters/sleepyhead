@@ -5,6 +5,7 @@
 [✔️] Generate templates of math word problems  (sleepymwp)  
 [❌] Generate variations of math word problems  (sleepymwp)  
 [❌] Calculate causality values  (sleepycausality)  
+[❌] Turn into usable pip package
 [❌] Data analysis for good naptimes  (sleepylearn). All this:
 ```
 from sklearn.tree import ExtraTreeClassifier
@@ -50,3 +51,4 @@ from sklearn.mixture import GaussianMixture
 from sklearn.mixture import VBGMM
 ```
 MIGHT SPLIT ALL THESE THINGS INTO THEIR OWN REPOS LOL
+
