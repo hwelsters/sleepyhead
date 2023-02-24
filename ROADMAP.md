@@ -1,4 +1,4 @@
-## TODO  
+![image](https://user-images.githubusercontent.com/84760072/221113100-cc228211-00cf-4138-ad43-8f824e9b7810.png)
 [✔️] Binary vector operations (negation, conjnunction, disjunction, conditional_probability)  
 [✔️] ChatGPT question ask-er  
 [✔️] Scheduler for asking ChatGPT questions (sleepychat)  
