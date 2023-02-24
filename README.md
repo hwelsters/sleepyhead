@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/84760072/221109482-cc57c5a9-2d6b-42cc-b8e1-fd91ec2c733b.png)
 
 <p align="center">
-  For doing data collection, analysis and research related to ChatGPT while sleeping 💤.
+  For doing data collection, analysis and research related to math / ChatGPT while sleeping 💤.
 </p>
 
 
