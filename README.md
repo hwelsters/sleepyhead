@@ -19,15 +19,18 @@ All help is appreciated!
 
 1) 🐛 **Found a bug?**  
 - Create an [issue][issue]  
-  
+<br/><br/>
 2) 💬 **Communication platforms**  
 - Communication platforms pending...  
+<br/><br/>
   
 3) ⚙️ **Interested in fixing a [bug][bugs] or adding a feature?**  
 - Check out the [project roadmap](ROADMAP.md).  
+<br/><br/>
   
 4) 📖 **Can we improve [the documentation][docs]?**  
 - Even pull requests for small changes can be helpful. Feel free to submit a pull request!   
+<br/><br/>
   
 [bugs]: https://github.com/hwelsters/axolotl-src/issues
 [issue]: https://github.com/hwelsters/axolotl-src/issues
