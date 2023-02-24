@@ -6,7 +6,7 @@
 [❌] Generate variations of math word problems  (sleepymwp)  
 [❌] Calculate causality values  (sleepycausality)  
 [❌] Turn into usable pip package 🥩  
-[❌] Data analysis for good naptimes  (sleepylearn). All this:
+[❌] Data analysis for good naptimes  (sleepylearn). All this + XGBoost (maybe TF or PyTorch if we can successfully conform it to our chosen interface:
 ```
 from sklearn.tree import ExtraTreeClassifier
 from sklearn.tree import DecisionTreeClassifier
