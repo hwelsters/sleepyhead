@@ -26,7 +26,7 @@
 [line]: https://user-images.githubusercontent.com/84760072/220297409-f97511e8-95e5-4204-9217-67d9f9353b76.png
 [cecdown]: https://github.com/hwelsters/cecdown
   
-## Credits
+## References
 - N. Kushman, Y. Artzi, L. Zettlemoyer, R. Barzilay, Learning to Automatically Solve Algebra Word Problems ([link](https://aclanthology.org/P14-1026.pdf))
 - S. Upadhyay, M.-W. Chang, DRAW: A Challenging and Diverse Algebra Word Problem Set, ([link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tech_rep.pdf))
 - S. Upadhyay, M.-W. Chang, DRAW-1K dataset, ([link](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tech_rep.pdf))
