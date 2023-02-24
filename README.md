@@ -23,7 +23,7 @@ Create an [issue][issue]
 💬 **Communication platforms**  
 Communication platforms pending...  
   
-⚙️ **Interested in fixing a [bug][bugs] or adding a [feature][features]?**  
+⚙️ **Interested in fixing a [bug][bugs] or adding a feature?**  
 Check out the [project roadmap](ROADMAP.md).  
   
 📖 **Can we improve [the documentation][docs]?**  
