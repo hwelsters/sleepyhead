@@ -84,10 +84,14 @@ def disjunction():
 
 
 def conditional_probability():
-    test_11, test_12 = pandas.Series([0, 0, 0, 1, 0]), pandas.Series([0, 1, 1, 1, 1])
-    test_21, test_22 = pandas.Series([0, 0, 1, 1, 0]), pandas.Series([1, 1, 0, 0, 0])
-    test_31, test_32 = pandas.Series([0, 0, 1, 1, 0]), pandas.Series([0, 0, 1, 1, 0])
-    test_41, test_42 = pandas.Series([1, 1, 1, 1, 0]), pandas.Series([1, 1, 1, 1, 0])
+    test_11, test_12 = pandas.Series(
+        [0, 0, 0, 1, 0]), pandas.Series([0, 1, 1, 1, 1])
+    test_21, test_22 = pandas.Series(
+        [0, 0, 1, 1, 0]), pandas.Series([1, 1, 0, 0, 0])
+    test_31, test_32 = pandas.Series(
+        [0, 0, 1, 1, 0]), pandas.Series([0, 0, 1, 1, 0])
+    test_41, test_42 = pandas.Series(
+        [1, 1, 1, 1, 0]), pandas.Series([1, 1, 1, 1, 0])
 
     output_1 = binary_operations.conditional_probability(test_11, test_12)
     output_2 = binary_operations.conditional_probability(test_21, test_22)
@@ -98,7 +102,7 @@ def conditional_probability():
     assert output_2 == 0
     assert output_3 == 1
     assert output_4 == 1
-    
+
     """"""
 
 
