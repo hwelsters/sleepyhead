@@ -18,7 +18,7 @@
 - 🐛 **Found a bug?** - Create an [issue][issue]  
 - ⚙️ **Interested in adding a feature?** - Check out the [project roadmap](ROADMAP.md) or suggest your own changes by creating an [issue][issue]   
 - 📖 **Can we improve the documentation?** - Even pull requests for small changes can be helpful. Feel free to change the [documentation][docs]!  
-- 😵 **See something wrong with the dataset?** - While our dataset may be accurate most of the time, there are cases where the solutions might not make sense in relation to the question.
+- 😵 **See something wrong with the dataset?** - While our dataset may be accurate most of the time, there are cases where the solutions might not make sense in relation to the question.  
 For example, take this question:
 ```
 The sum of two consecutive odd integers is at least 36 . What are the integers ?
