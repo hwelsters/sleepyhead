@@ -17,9 +17,9 @@
 
 All help is appreciated!  
 
-- 🐛 **Found a bug?** ==> Create an [issue][issue]  
+- 🐛 **Found a bug?** - Create an [issue][issue]  
   
-- 💬 **Communication platforms** ==> Communication platforms pending...    
+- 💬 **Communication platforms** - Communication platforms pending...    
   
 - ⚙️ **Interested in fixing a [bug][bugs] or adding a feature?** ==> Check out the [project roadmap](ROADMAP.md).   
   
