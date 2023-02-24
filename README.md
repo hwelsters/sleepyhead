@@ -24,7 +24,7 @@ For example, take this question:
 ```
 The sum of two consecutive odd integers is at least 36 . What are the integers ?
 ```
-Our algorithms do not pick up constraints between two numbers. In this case, the first number has to be the second number - 2. Constraints like these have to be tuned by hand. (Interestingly, our algorithm actually filters this question out but there definitely will be cases where our code is susceptible.)
+Our algorithms do not pick up constraints between two numbers. In this case, the `first number` has to be `second number - 2`. Constraints like these have to be tuned by hand. (Interestingly, our algorithm actually filters this question out but there definitely will be cases where our code is susceptible.)
   
 [bugs]: https://github.com/hwelsters/axolotl-src/issues
 [issue]: https://github.com/hwelsters/axolotl-src/issues
