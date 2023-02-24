@@ -57,5 +57,3 @@ from sklearn.mixture import GMM
 from sklearn.mixture import GaussianMixture
 from sklearn.mixture import VBGMM
 ```
-MIGHT SPLIT ALL THESE THINGS INTO THEIR OWN REPOS LOL
-
