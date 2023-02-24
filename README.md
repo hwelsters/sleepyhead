@@ -16,8 +16,8 @@
 ## Get involved
 - 🐛 **Found a bug?** - Create an [issue][issue]  
 - 💬 **Communication platforms** - Communication platforms pending...    
-- ⚙️ **Interested in fixing a [bug][bugs] or adding a feature?** - Check out the [project roadmap](ROADMAP.md).   
-- 📖 **Can we improve [the documentation][docs]?** - Even pull requests for small changes can be helpful. Feel free to submit a pull request!    
+- ⚙️ **Interested in adding a feature?** - Check out the [project roadmap](ROADMAP.md).   
+- 📖 **Can we improve the documentation?** - Even pull requests for small changes can be helpful. Feel free to change the [documentation][docs]!    
   
 [bugs]: https://github.com/hwelsters/axolotl-src/issues
 [issue]: https://github.com/hwelsters/axolotl-src/issues
