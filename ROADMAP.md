@@ -1,11 +1,19 @@
-## TODO  
+![image](https://user-images.githubusercontent.com/84760072/221113435-e971d65f-17fd-41ef-a441-050db0943122.png)
+
+<p align="center">
+  📋 Why am I making our READMEs dope-looking instead of working? Yes, the answer is yes
+</p>
+<br/>
+
+
 [✔️] Binary vector operations (negation, conjnunction, disjunction, conditional_probability)  
 [✔️] ChatGPT question ask-er  
-[✔️] Scheduler for asking ChatGPT questions (sleepychat)
+[✔️] Scheduler for asking ChatGPT questions (sleepychat)  
 [✔️] Generate templates of math word problems  (sleepymwp)  
 [❌] Generate variations of math word problems  (sleepymwp)  
 [❌] Calculate causality values  (sleepycausality)  
-[❌] Data analysis for good naptimes  (sleepylearn). All this:
+[❌] Turn into usable pip package 🥩  
+[❌] Data analysis for good naptimes  (sleepylearn). All this + XGBoost (maybe TF or PyTorch if we can successfully conform it to our chosen interface. Some other decisions have to be made. For example, how do we evaluate the performance of a model? Cross validation? Something else?:
 ```
 from sklearn.tree import ExtraTreeClassifier
 from sklearn.tree import DecisionTreeClassifier
@@ -49,4 +57,3 @@ from sklearn.mixture import GMM
 from sklearn.mixture import GaussianMixture
 from sklearn.mixture import VBGMM
 ```
-MIGHT SPLIT ALL THESE THINGS INTO THEIR OWN REPOS LOL
