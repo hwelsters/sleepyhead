@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/84760072/221271410-5b7b9954-510c-471c-b661-ff2345d9bece.png)
+![image][logo]
 
 <p align="center">
   Data collection, analysis, dataset generation and research related to math / ChatGPT while sleeping 💤.
@@ -33,3 +33,5 @@
 - S. Upadhyay, M.-W. Chang, DRAW-1K dataset, ([link](https://paperswithcode.com/dataset/draw-1k#:~:text=DRAW%2D1K%20is%20a%20dataset,derivation%20of%20an%20equation%20system.))
 - S. Kleinberg, B. Mishra, The Temporal Logic of Causal Structures ([link](http://www.skleinberg.org/papers/uai09.pdf))
 - D. Saxton, E. Grefenstette, F. Hill, P. Kohli, Analysing Mathematical Reasoning Abilities of Neural Models ([link](https://openreview.net/pdf?id=H1gR5iR5FX))
+
+[logo]:[images/sleepyhead_logo.png]
