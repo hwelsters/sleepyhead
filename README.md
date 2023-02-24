@@ -24,8 +24,7 @@ Create an [issue][issue]
 Communication platforms pending...  
 
 ⚙️ **Interested in fixing a [bug][bugs] or adding a [feature][features]?**  
-Check out the [contributing guidelines](CONTRIBUTING.md)
-and the [project roadmap](ROADMAP.md).
+Check out the [project roadmap](ROADMAP.md).
 
 📖 **Can we improve [our documentation][docs]?**  
 Pull requests even for small changes can be helpful. Each page in the
