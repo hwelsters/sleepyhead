@@ -14,6 +14,6 @@
 - Profit 💰
 
 ## Credits
-ALG514 dataset  
-DRAW-1K dataset
-RevChatGPT
+- ALG514 dataset  
+- DRAW-1K dataset  
+- RevChatGPT
