@@ -1,7 +1,7 @@
 ![image](images/sleepyhead_logo.png)
 
 <p align="center">
-  A data collection, analysis, dataset generation, and ChatGPT research for people who take lots of naps 💤.
+  A data collection, analysis, dataset generation, and ChatGPT research toolkit for people who take lots of naps 💤.
 </p>
 
 
