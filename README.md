@@ -7,7 +7,7 @@
 
 ## Steps
 - Generated a dataset of math question sets using preexisting datasets as templates.
-- Brute-force model-fitting
+- Try out a bunch of models as well as various combinations of the models
 - Asks ChatGPT math equations
 - Calculate causality values
 - Sleep for 8 hrs (important for brain function)
