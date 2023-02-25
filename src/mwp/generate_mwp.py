@@ -114,7 +114,7 @@ def generate_template_file():
     valid_data["numbers_len"] = valid_data.apply(lambda row: len(eval(row["numbers"])), axis=1)
     valid_data.to_json(f"{template_file_path}{data_file_path}", orient="records")
 
-def generate_single_variation(current_index, max_index):
+def generate_single_variation():
     float_range_size = 100
     int_range_size = 1000
     float_step_size = 0.1

@@ -59,7 +59,5 @@ from sklearn.mixture import GaussianMixture
 from sklearn.mixture import VBGMM
 ```
 
-Tries stacking, ensemble, boosting and also subsamples
-
-
+Tries stacking, ensemble, boosting and also subsamples. Maybe make it only for exploratory data analysis? Trying every tuned parameter sounds like a pain and may be unnecessary for users.
 I may or may not separate each functional folder into its own GitHub repo
