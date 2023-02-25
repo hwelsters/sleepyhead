@@ -1,7 +1,7 @@
 ![image](images/sleepyhead_logo.png)
 
 <p align="center">
-  Data collection, analysis, dataset generation and research related to math / ChatGPT while sleeping 💤.
+  A data collection, analysis, dataset generation, and ChatGPT research for people who take lots of naps 💤.
 </p>
 
 
