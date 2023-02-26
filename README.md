@@ -22,7 +22,7 @@
   
 [bugs]: https://github.com/hwelsters/sleepyhead/issues
 [issue]: https://github.com/hwelsters/sleepyhead/issues
-[docs]: documentation
+[docs]: docs
 
 ## References
 - N. Kushman, Y. Artzi, L. Zettlemoyer, R. Barzilay, Learning to Automatically Solve Algebra Word Problems ([link](https://aclanthology.org/P14-1026.pdf))
